@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
 public class Main {
 //Implementacion del Codidgo de Huffman
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
 
         String test = "hola mundo y raimundooo";
 
@@ -52,5 +52,5 @@ public class Main {
             encodeText+=(getCodes(tree, new StringBuffer()));
         } return encodeText;
     }
-    public static String decode(HuffmanTree, )
+    public static String decode(HuffmanTree){}*/
 }
